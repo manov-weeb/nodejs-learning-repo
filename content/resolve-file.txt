@@ -1,0 +1,4 @@
+this is awesome Hello this is the first text file.  and Creating a new file using Write File Sync and 
+ some content of first file : Hello this is the first text file. This line is newly appended when it is again run. this is awesome Hello this is the first text file.  and Creating a new file using Write File Sync and 
+ some content of first file : Hello this is the first text file. This line is newly appended when it is again run. this is awesome Hello this is the first text file.  and Creating a new file using Write File Sync and 
+ some content of first file : Hello this is the first text file. This line is newly appended when it is again run. 

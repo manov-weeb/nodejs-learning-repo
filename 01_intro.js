@@ -15,3 +15,5 @@ func(names.name1);
 const data = require('./04_alt_flav');
 console.log(data);
 // const save = require('./05_mindGrenade');
+
+console.log('first');
